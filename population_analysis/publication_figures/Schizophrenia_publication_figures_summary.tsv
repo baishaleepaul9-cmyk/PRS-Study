@@ -1,0 +1,7 @@
+Figure	Description	File
+Figure 1	PRS distribution by 1000 Genomes superpopulation	Figure1_Schizophrenia_PRS_by_Superpopulation_Boxplot.png
+Figure 2	Mean PRS with 95% confidence intervals	Figure2_Schizophrenia_Mean_PRS_95CI.png
+Figure 3	Overall genome-wide PRS distribution	Figure3_Schizophrenia_Overall_PRS_Distribution.png
+Figure 4	Relative PRS group distribution	Figure4_Schizophrenia_Relative_PRS_Groups.png
+Figure 5	Dunn-Holm pairwise population comparison	Figure5_Schizophrenia_Dunn_Holm_Heatmap.png
+Figure 6	1000 Genomes superpopulation sample composition	Figure6_Schizophrenia_1000G_Superpopulation_Composition.png
