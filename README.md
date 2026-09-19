@@ -342,6 +342,3 @@ DOI: 10.1038/nature15393
 Disease-specific PRS datasets are obtained from their respective original publications/data sources and are not redistributed in this repository.
 
 
-**[Author Name]**  
-**[Institution / Department]**  
-**[Email]**
