@@ -1,0 +1,7 @@
+Figure	Description	File
+Figure 1	CAD PRS distribution across 1000 Genomes superpopulations	Figure1_CAD_population_PRS_distribution.png
+Figure 2	Mean CAD PRS with 95% confidence intervals	Figure2_CAD_population_mean_95CI.png
+Figure 3	Overall CAD PRS distribution	Figure3_CAD_overall_PRS_distribution.png
+Figure 4	Relative PRS group distribution	Figure4_CAD_relative_PRS_groups.png
+Figure 5	Dunn-Holm pairwise population comparisons	Figure5_CAD_Dunn_Holm_heatmap.png
+Figure 6	1000 Genomes superpopulation composition	Figure6_CAD_population_composition.png
