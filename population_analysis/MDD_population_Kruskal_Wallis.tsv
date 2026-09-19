@@ -1,0 +1,2 @@
+Test	Populations	H_statistic	P_value	Interpretation
+Kruskal-Wallis	AFR;AMR;EAS;EUR;SAS	859.9308674181593	7.995160183104342e-185	p < 0.001
