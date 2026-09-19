@@ -1,0 +1,2 @@
+Disease	PRS_ID	Total_PGS_variants	Unique_variant_IDs	Duplicate_variant_IDs	Missing_variant_IDs	Missing_effect_alleles	Missing_effect_weights	Chromosome_1_22_variants	Valid_single_base_effect_alleles	Non_standard_effect_alleles	Valid_numeric_weights	Invalid_weights	Zero_weights
+Multiple Sclerosis	PGS002726	476398	476290	108	0	0	0	476398	476398	0	476398	0	0
